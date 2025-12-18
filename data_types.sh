@@ -6,3 +6,7 @@ Fahim=9398334039
 Sum=$((Matin+Fahim))
 
 echo "Sum is: ${Sum}"
+
+LEGENDS=("Jaun Eila" "Ahmad Faraz" "Bashir Badr")
+
+echo "My Unpaid Theorapist: ${LEGENDS[@]}"
