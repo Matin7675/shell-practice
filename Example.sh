@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Number=20
+Number=49
 
 if [ $(($Number % 7 )) -eq 0 ]; then
     echo "Given Number $Number is Prime"
